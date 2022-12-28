@@ -1,0 +1,12 @@
+seat value is used to denote the status
+
+status =>
+    any integer     Confirmed
+    -1              Waiting
+    -2              Canceled
+
+
+
+Idea of inserting is 
+    Querying and checking wether any seat is marked as -2
+    

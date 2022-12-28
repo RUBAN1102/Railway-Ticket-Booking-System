@@ -1,0 +1,5 @@
+Train_Number,Train_Name,SRC,DST,A,B,C
+121,Train,mdu,che,300,200,100
+122,Train,che,mdu,300,200,100
+112,Train,mdu,ban,300,200,100
+112,Train,ban,mdu,300,200,100

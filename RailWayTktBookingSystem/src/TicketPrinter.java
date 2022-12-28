@@ -1,0 +1,7 @@
+/**
+ * TicketPrinter
+ */
+public class TicketPrinter {
+
+    
+}
